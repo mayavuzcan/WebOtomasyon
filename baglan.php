@@ -9,7 +9,7 @@
 
 try{
 
-    $db=new PDO("mysql:host=localhost;dbname=mehmetse_yavuz;charset=utf8","mehmetse_mayavuzcan","yavuz1253");
+    $db=new PDO("mysql:host=localhost;dbname=*****;charset=utf8","*****","********");
 
 
 
